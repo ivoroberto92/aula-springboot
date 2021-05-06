@@ -1,0 +1,1 @@
+INSERT INTO tb_student(name, gender) VALUES ('João', 'MASCULINO')
